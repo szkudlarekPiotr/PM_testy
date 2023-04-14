@@ -1,2 +1,2 @@
 # PM_testy
-Testowe repozytorium do plików, które mogą się przydać przy pracy magisterskiej.
+Repository with working files for my Master's thesis.
